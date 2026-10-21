@@ -1,0 +1,3 @@
+hello there this is my second file called planning
+
+I have created this file using git terminal
